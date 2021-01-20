@@ -19,7 +19,7 @@ Considerations
   - Will it work over ssh (without X11)?
   - What about terminals that don't support color? Or in those with limited (8/256) colors?
   - Will it work in tmux/screen?
-  - Will is fail gracefully if unicode is not supported?
+  - Will it fail gracefully if unicode is not supported?
 
 - If you're adding a new feature, try to include a few test cases.
   See the section below on setting up your test environment
